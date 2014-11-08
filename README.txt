@@ -1,6 +1,4 @@
-Despa Diana Alexandra 321CA
-
-Tema 3 Paradigme de programare - Prolog: cautare intr-un spatiu infinit
+Prolog: cautare intr-un spatiu infinit
 
 	Ideea pe care se bazeaza implementarea temei este parcurgerea in spirala a
 spatiului in sensul acelor de ceasornic, cu oprirea in camerele ce contin cutii,
